@@ -1,0 +1,2 @@
+To compile it, you MUST use Visual Studio 2012 Express ( https://www.microsoft.com/en-us/download/details.aspx?id=34673 ), open wxPloiter.sln in the src folder and compile in RELEASE mode. 
+This should compile out of the box, as I (quite badly) included all of the dependencies in the project.
